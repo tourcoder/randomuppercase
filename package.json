@@ -1,0 +1,11 @@
+{
+  "name": "randomuppercase",
+  "version": "0.1.4",
+  "description": "A simple random UpperCase tool",
+  "main": "app.js",
+  "keywords": [
+    "random",
+    "Uppercase"
+  ],
+  "license": "MIT"
+}
