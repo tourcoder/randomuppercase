@@ -4,6 +4,8 @@
 
 A simple tool to change lowercase letter to uppercase letter randomly in string.
 
+Tips: This package was actually on npmjs.org for a few years, but due to a mistake by npmjs, it was deleted and could not be restored. npmjs suggested that I should re-upload it.
+
 #### How to use
 
 First, install it from NPM
